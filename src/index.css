@@ -189,8 +189,8 @@ main {
   outline: 1px solid rgba(242, 138, 178, 0.8);
   cursor: pointer;
 }
-/* 
-div {
+
+/* div {
   position: relative;
 }
 
@@ -199,10 +199,18 @@ div a {
   border-color: transparent;
   outline: none;
   color: var(--clr-pink);
-  width: 20px;
-  height: 20px;
-  float: right;
+  width: 30px;
+  height: 30px;
   position: absolute;
   right: 5px;
-  bottom: 0;
+  bottom: 20%;
+}
+
+.person a img {
+  background-color: transparent;
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: var(--light-shadow);
 } */
