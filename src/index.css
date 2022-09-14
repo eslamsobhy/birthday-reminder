@@ -190,7 +190,7 @@ main {
   cursor: pointer;
 }
 
-/* div {
+div {
   position: relative;
 }
 
@@ -213,4 +213,4 @@ div a {
   object-fit: cover;
   border-radius: 50%;
   box-shadow: var(--light-shadow);
-} */
+}
